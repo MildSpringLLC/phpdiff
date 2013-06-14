@@ -39,7 +39,7 @@ if (! $text2) { $text2 = 'This product comes with a 3yr warranty. There are no r
 			<input type="text" name="line2" class="span3" <?php if (! $line2) echo 'value="' . $text2 . '"' ?> >
           </div>
           <div class="form-actions">
-            <button type="submit" class="btn btn-primary">Process</button>
+            <button type="submit" class="btn btn-primary">Compare</button>
             <!-- <button class="btn">Cancel</button> -->
           </div>
         </fieldset>
